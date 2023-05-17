@@ -1,0 +1,70 @@
+---
+title: "First Knit"
+author: "Bryan Edgell"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "`r Sys.Date()`"   
+---
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct punctuation. 
+
+## A short history of you.  
+Where did you attend High School, and did you graduate? Compare English class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+  
+### my answer     
+   Went and attended Vasquez High School, Graduated in 2011. Was a small and simple school.  Math is easier due to it being more logical and not breaking it own rules.Also the fact that English seems to be forever changing making it unreliable. My best subjects are History related. Not so much in the date and times but more of what happened. I am a firm believer that history is one of the most important classes we have.  
+
+## Your computer and your and its capability?  
+ For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+
+### my answer   
+  I do have a few computers at home. I am a Windows users, Apple hater, and respect anyone who dives into the world on Linux. I am a gamer and amateur tech enthusiast. On a scale of 1 to 10 i would put myself in a 6 category. I know how to build computers, do basic diagnostics. I consider myself to know just enough to get in trouble if I get overly confident. I live up in the hills of Acton, but i do have a stable internet connection, and a backup network I have access to as well.     
+  
+   
+
+## Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+
+### my answer     
+  I don't have any public nicknames, but i either go by first or last name. Most call me Bryan, but my Military buddies still call me Edgell. I will respond to Either. 
+
+
+## Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+### my answer     
+My goal is to end up in the tech industry doing some form of program development. Having stitching my field from primarily mechanical to more tech based. Any class that has some form or programming or application development. Either being in Computer science classes or so far something like this statistics class. At this current time I'm going to an AS in Computer Programming. However I am not so hung up on getting the degree as much as i am   
+    
+## Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+### my answer     
+  
+The best years on my life so far was when i lived in Okinawa, Japan for three years. I have been to Canada and Mexico but i don't really count that as real travel. I spent 4 years serving in the Army working on the Patriot Missiles System.   
+ 
+## Why are you taking Statistics?  
+Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?  
+ 
+
+### my answer     
+ I need to take a multitude of Math classes. I needed to start somewhere. Again i am not too hung up on a grade, I am more after the knowledge to progress myself forward. In today's world we need to understand the systems we are using.    
+  
+   
+ 
+
+
+
+
+
+
+  
+
+
+
+
